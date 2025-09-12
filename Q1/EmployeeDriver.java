@@ -11,7 +11,7 @@ public class EmployeeDriver {
         employees[3] = new CommissionEmployee("Nicole", "Dior", "444-44-4444", 15, 50000);
         employees[4] = new SalariedEmployee("Renwa", "Chanel", "555-55-5555", 1700);
         employees[5] = new BaseEmployee("Mike", "Davenport", "666-66-6666", 95000);
-        employees[6] = new CommissionEmployee("John", "Black", "777-77-7777", 22, 40000);
+        employees[6] = new CommissionEmployee("Mahnaz", "Vaziri", "777-77-7777", 22, 40000);
 
         // Print header
         System.out.printf("Employee Details:%n");
